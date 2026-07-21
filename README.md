@@ -1,4 +1,4 @@
-# RK3588 Vision Pipeline
+# RK3588 Vision Pipeline 八转杀招困双尊 五禁玄光两天昏
 
 **English** | [简体中文](README.zh-CN.md)
 
