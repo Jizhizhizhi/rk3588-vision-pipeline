@@ -5,6 +5,13 @@ inference scheduling, pluggable target-control dispatch, and DRM/KMS HDMI
 output. The repository is intentionally independent from any web frontend,
 license service, model file, private device configuration, or deployment image.
 
+> **Responsible-use notice:** Using this project to create, operate, distribute,
+> or assist cheats, game hacks, unfair automation, or unauthorized competitive
+> tools is expressly prohibited by the project author. Forks, copies,
+> repackaged versions, renamed projects, and third-party derivatives do not
+> represent the author unless separately confirmed in writing. See
+> [DISCLAIMER.md](DISCLAIMER.md).
+
 ## Included
 
 - V4L2 MMAP capture with a small RAII wrapper.
@@ -69,6 +76,12 @@ is described in [docs/RKNN_BACKEND.md](docs/RKNN_BACKEND.md).
 This project is a systems-programming reference for local, authorized vision
 experiments. Users are responsible for complying with applicable laws,
 platform rules, device warranties, and third-party terms.
+
+The author does not authorize this project to be used for cheating, game hacks,
+unfair competitive automation, or bypassing platform protections. Third-party
+reuse, modification, redistribution, or incorporation into another project is
+performed independently and does not imply the author's participation,
+approval, endorsement, or responsibility. See [DISCLAIMER.md](DISCLAIMER.md).
 
 ## License
 
