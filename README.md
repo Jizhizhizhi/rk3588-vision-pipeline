@@ -1,5 +1,7 @@
 # RK3588 Vision Pipeline
 
+**English** | [简体中文](README.zh-CN.md)
+
 A backend-only Linux reference pipeline for V4L2 capture, latest-result-first
 inference scheduling, pluggable target-control dispatch, and DRM/KMS HDMI
 output. The repository is intentionally independent from any web frontend,
